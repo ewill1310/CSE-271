@@ -1,0 +1,5 @@
+1	Evan Williams	will1310@miamioh.edu	89.7	95.3
+2	Aidan Owens	owensad@miamioh.edu	98.1	34.6
+3	Keri Cendric	kerimad@miamioh.edu	93.8	92.5
+4	Luke Melton	meltonbad@miamioh.edu	89.4	78.5
+5	LJ Ivey	iveychad@miamioh.edu	100.0	99.99
